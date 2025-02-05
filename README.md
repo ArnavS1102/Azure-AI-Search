@@ -33,4 +33,4 @@ This script interacts with Azure AI services to create an AI agent capable of an
 To run the script, pass your question as a parameter:
 
 ```sh
-python3 agent1.py "Your question here"
+python3 agent.py "Your question here"
